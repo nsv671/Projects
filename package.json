@@ -1,0 +1,19 @@
+{
+  "name": "my-recipy-project",
+  "version": "1.0.0",
+  "description": "This app allows a user to search a recipe and see its ingredients with no of people servings and user can manipulate that to find the ingredient quentity for that servings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsv671/Projects.git"
+  },
+  "author": "Nitesh Sah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsv671/Projects/issues"
+  },
+  "homepage": "https://github.com/nsv671/Projects#readme"
+}
